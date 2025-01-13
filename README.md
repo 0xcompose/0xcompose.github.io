@@ -1,6 +1,14 @@
 # Solidity Team Lead at MAAT Finance
 
+Love interop/acc, omni man, infinite ideas generator
+
+I'm:
+
 - Smart Contract Developer with 4 years of experience
+- Foundry enjoyer
+- Advanced testing advocate
+  - Scheme Driven Development
+  - Test Driven Development
 - Open Source Contributor
   - [sspec](https://github.com/0xcompose/sspec) - smart contracts specification generator
 - Security Researcher
